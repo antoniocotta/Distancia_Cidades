@@ -1,0 +1,14 @@
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\bin\Debug\net6.0\Distancia_Cidades.exe
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\bin\Debug\net6.0\Distancia_Cidades.deps.json
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\bin\Debug\net6.0\Distancia_Cidades.runtimeconfig.json
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\bin\Debug\net6.0\Distancia_Cidades.dll
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\bin\Debug\net6.0\Distancia_Cidades.pdb
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\obj\Debug\net6.0\Distancia_Cidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\obj\Debug\net6.0\Distancia_Cidades.AssemblyInfoInputs.cache
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\obj\Debug\net6.0\Distancia_Cidades.AssemblyInfo.cs
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\obj\Debug\net6.0\Distancia_Cidades.csproj.CoreCompileInputs.cache
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\obj\Debug\net6.0\Distancia_Cidades.dll
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\obj\Debug\net6.0\refint\Distancia_Cidades.dll
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\obj\Debug\net6.0\Distancia_Cidades.pdb
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\obj\Debug\net6.0\Distancia_Cidades.genruntimeconfig.cache
+E:\Engenharia de Computação\FACULDADE UFU\ED\Trabalho Final\Distancia_Cidades\Distancia_Cidades\obj\Debug\net6.0\ref\Distancia_Cidades.dll
